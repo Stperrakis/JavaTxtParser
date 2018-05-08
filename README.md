@@ -1,6 +1,6 @@
 # JavaTxtParser
-Fast algorithm to parse .txt files with int x  int y  values
-Txt parser is parsing files like :
+Fast algorithm to parse .txt files with int x  int y  values<br />
+Txt parser parses files like :
 
 100 <br />
 1 1 <br />
