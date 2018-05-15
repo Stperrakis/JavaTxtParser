@@ -1,3 +1,6 @@
+//class dotData has two integers (x,y) and their getters
+
+
 class txtParser {
     /**
      * @param f is the file.
@@ -14,7 +17,6 @@ class txtParser {
 
     /**
      * Read : Reads the Integers from the file and storing it to a list.
-     * My parser in order to read faster.
      * @param name
      */
     public void Read(String name) throws IOException {
@@ -65,4 +67,4 @@ class txtParser {
         }
         time = System.currentTimeMillis() - time;
         //System.out.println((System.currentTimeMillis()-time));
-    }s
+    }
